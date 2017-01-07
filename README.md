@@ -52,7 +52,7 @@ wxbot-clock用到了codecs库。
 |[日期]的查卡|20170101的查卡|这个日期的查卡结果|格式为8位年月日
 
 ###4. 成果展示
-![丑陋的马赛克~](http://img.blog.csdn.net/20170107185747785?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2F0YW5u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![长图，点击查卡](http://img.blog.csdn.net/20170107185747785?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2F0YW5u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 ###5.项目收获
 1. 每过半年就会觉得上一个版本的设计方式不忍直视。
@@ -63,9 +63,11 @@ wxbot-clock用到了codecs库。
 4. 早起是一件好事，也是一件难事。
 
 ###6.欢迎加入早起团
-小萌机器人微信号：xiaomengrobot
-早起自律小分队二维码：![二维码](http://img.blog.csdn.net/20170107190525585?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2F0YW5u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-个人微信公众号：小南瓜的每日一记
+1. 小萌机器人微信号：xiaomengrobot
+2. 个人微信公众号：小南瓜的每日一记
+3. 早起自律小分队二维码：
+![二维码](http://img.blog.csdn.net/20170107190525585?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2F0YW5u/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
 
 
 
